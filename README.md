@@ -24,6 +24,7 @@ A Cryptocurrency is a peer-to-peer digital exchange system in which cryptography
 
 
 ![Coding](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJtSqbyXiAu7EEY5_cpZgAK9nleqaAOmyvD3KnpGqh63FKveqNMmSYQPb2ar88QMl-lng&usqp=CAU)
+
 Figure 1 shows the example of Crypto Coins.
 
 
