@@ -30,28 +30,28 @@ Figure 1 shows the example of Crypto Coins.
 
 ## C.  DATASET
 
-In this project, we’ll discuss our two-phase COVID-19 face mask detector, detailing how our computer vision/deep learning pipeline will be implemented.
+In this project, we’ll discuss about prediction in crptocurrency
 
-From there, we’ll review the dataset we’ll be using to train our custom face mask detector.
+For each currency, the data is from the day when it was launched or when it started generating some market value. For example for Bitcoin(BTC) the data is from April 28, 2013 to present day. For Ethereum(ETH), it is from August 07,2015 to present day.
 
-I’ll then show you how to implement a Python script to train a face mask detector on our dataset using Keras and TensorFlow.
+The data contains total of 6 main features. The details for them are as follows :
 
-We’ll use this Python script to train a face mask detector and review the results.
+- Close Price – It is the market close price for currency for that particular day.
+- Open Price – It is market open price for currency for that day.
+- High Price – It is highest price of currency for the day.
+- Low Price – It is the lowest price for currency for that day.
+- Volume – The volume of currency that is being in trade for that day.
+- Market Cap – The total market cap value of currency for that day. It can vary a lot on given day depending upon volatility in prices.
 
-Given the trained COVID-19 face mask detector, we’ll proceed to implement two more additional Python scripts used to:
-
-- Detect COVID-19 face masks in images
-- Detect face masks in real-time video streams
-
-We’ll wrap up the post by looking at the results of applying our face mask detector.
+**Ripple (XRP)**
+We have trained same LSTM model on Ripple data. We are predicting prices from 22 January to 27 January, 2018. Below table shows our output.
 
 
-There is two-phase COVID-19 face mask detector as shown in Figure 2:
+![Figure 2](https://i1.wp.com/pirimidtech.com/wp-content/uploads/2018/04/0-4.jpg?w=592&ssl=1)
 
-![Figure 2](https://www.pyimagesearch.com/wp-content/uploads/2020/04/face_mask_detection_phases.png)
-Figure 2: Phases and individual steps for building a COVID-19 face mask detector with computer vision and deep learning 
+Again, overall difference between real and predicted prices is from 0 to 5.6%.
 
-In order to train a custom face mask detector, we need to break our project into two distinct phases, each with its own respective sub-steps (as shown by Figure 1 above):
+
 
 - Training: Here we’ll focus on loading our face mask detection dataset from disk, training a model (using Keras/TensorFlow) on this dataset, and then serializing the face mask detector to disk
 
@@ -195,19 +195,7 @@ In Figure 5, you can see that our face mask detector is capable of running in re
 
 ## G.   PROJECT PRESENTATION 
 
-In this project, you learned how to create a COVID-19 face mask detector using OpenCV, Keras/TensorFlow, and Deep Learning.
-
-To create our face mask detector, we trained a two-class model of people wearing masks and people not wearing masks.
-
-We fine-tuned MobileNetV2 on our mask/no mask dataset and obtained a classifier that is ~99% accurate.
-
-We then took this face mask classifier and applied it to both images and real-time video streams by:
-
-- Detecting faces in images/video
-- Extracting each individual face
-- Applying our face mask classifier
-
-Our face mask detector is accurate, and since we used the MobileNetV2 architecture, it’s also computationally efficient, making it easier to deploy the model to embedded systems (Raspberry Pi, Google Coral, Jetosn, Nano, etc.).
+COMING SOON!!!
 
 [![demo](https://img.youtube.com/vi/-p7HGwOWxtg/0.jpg)](https://www.youtube.com/watch?v=-p7HGwOWxtg "demo")
 
