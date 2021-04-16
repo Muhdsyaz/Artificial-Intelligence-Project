@@ -1,14 +1,14 @@
-# FACE MASK DETECTION USING DEEP LEARNING 
+# CRYPTOCURRENCY PREDICTION USING MACHINCE LEARNING
 
 ## A. PROJECT SUMMARY
 
-**Project Title:** Face Mask Detection using Deep Learning
+**Project Title:** Crytocurrency Prediction Using Machine Learning
 
 **Team Members:** 
-- [Muhammad Azri Bin Abdullah Zawawi]
-- [Muhammad Syazani Bin Mohd Shah]
-- [Muhammad Zulfahmi Bin Zambri]
-- [Zaki Armindo]
+- Muhammad Azri Bin Abdullah Zawawi
+- Muhammad Syazani Bin Mohd Shah
+- Muhammad Zulfahmi Bin Zambri
+- Zaki Armindo
 
 
 - [ ] **Objectives:**
@@ -20,11 +20,7 @@
 
 ##  B. ABSTRACT 
 
-In late December 2019, a previous unidentified coronavirus, currently named as the 2019 novel coronavirus, emerged from Wuhan, China, and resulted in a formidable outbreak in many cities in China and expanded globally, including Thailand, Republic of Korea, Japan, United States, Philippines, Viet Nam, and our country (as of 2/6/2020 at least 25 countries). Covid-19 are Person-to-person transmission may occur through droplet or contact transmission and if there is a lack of stringent infection control or if no proper personal protective equipment available, it may jeopardize the first-line healthcare workers.
-
-The best safety measure that can be taken is enforcing the people to wear a face mask whenever they are outside to slow down the COVID-19 infection rate. Mask wearing significantly reduced the amounts of various airborne viruses coming from infected patients, measured using the breath-capturing "Gesundheit II machine" developed by Dr. Don Milton, a professor of applied environmental health and a senior author of the study published April 3 in the journal Nature Medicine. In short, masks can help prevent the spread of COVID-19 and that the more people wearing masks, the better.
-
-As for now, you as a Data Scientist or Machine Learning Engineer or Practitioner are going to use AI technology to recognize people whether they are wearing face mask or not in the public or open space.
+A Cryptocurrency is a peer-to-peer digital exchange system in which cryptography is used to generate and distribute currency units. This process requires distributed verification of transactions without a central authority. Transaction verification confirms transaction amounts, and whether the payer owns the currency they are trying to spend while ensuring that currency units are not spent twice. This verification process is called mining. Cryptocurrencies use a variety of mining technologies, according to their particular requirements. For instance, certain Cryptocurrencies focus on restricting the number of transactions validated per unit time, while others concentrate on achieving fast, lightweight services. Some mining algorithms are deliberately memory intensive; others are computationally expensive.
 
 
 ![Coding](https://miro.medium.com/max/1400/1*fyfSOSKswsmV0n7Wdy6R4Q.jpeg)
