@@ -23,7 +23,7 @@
 A Cryptocurrency is a peer-to-peer digital exchange system in which cryptography is used to generate and distribute currency units. This process requires distributed verification of transactions without a central authority. Transaction verification confirms transaction amounts, and whether the payer owns the currency they are trying to spend while ensuring that currency units are not spent twice. This verification process is called mining. Cryptocurrencies use a variety of mining technologies, according to their particular requirements. For instance, certain Cryptocurrencies focus on restricting the number of transactions validated per unit time, while others concentrate on achieving fast, lightweight services. Some mining algorithms are deliberately memory intensive; others are computationally expensive.
 
 
-![Coding](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJtSqbyXiAu7EEY5_cpZgAK9nleqaAOmyvD3KnpGqh63FKveqNMmSYQPb2ar88QMl-lng&usqp=CAU)
+![Coding](https://cdn-japantimes.com/wp-content/uploads/2018/01/z2-crypto-a-20180123.jpg)
 
 Figure 1 shows the example of Crypto Coins.
 
