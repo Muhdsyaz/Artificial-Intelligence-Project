@@ -49,21 +49,32 @@ The data contains total of 6 main features. The details for them are as follows 
 Dataset that we are used for XRP are from 15/4/2020 until 15/4/2021. We have trained same LSTM model on Ripple data. We are predicting prices from 22 March 2021 to 15 April 2021. Below table shows our dataset example.
 
 
-![GitHub Logo](XRP Example Dataset.jpg)
+![Figure 1](https://github.com/azriawi/Artificial-Intelligence-Project/blob/main/Image/XRP%20Example%20Dataset.jpg)
+
+Figure 2 shows the example of XRP dataset.
 
 ![Figure 2](https://i1.wp.com/pirimidtech.com/wp-content/uploads/2018/04/0-4.jpg?w=592&ssl=1)
 
 Again, overall difference between real and predicted prices is from 0 to 5.6%.
 
 
-**Ethereum**
-For Ethereum also, we are predicting for 21 January to 27 January 2018 to test how we are doing on unseen data. So below table is what we are getting for Ethereum.
+**Ethereum (ETH)**
 
-![Figure 3](https://i2.wp.com/pirimidtech.com/wp-content/uploads/2018/04/0-3.jpg?w=592&ssl=1)
+For Ethereum, dataset that we are used is from 11/5/2020 - 11/5/2021. Below table shows our dataset example.
+
+![Figure 3](https://github.com/azriawi/Artificial-Intelligence-Project/blob/main/Image/ETH%20Example%20Dataset.jpg)
+
+Figure 3 shows the example of ETH dataset.
 
 As shown above, difference between real and predicted close price is 0% to 7.4%. For really simple LSTM model we’ve trained and tested.
 
+**BITCOIN (BTC)**
 
+For Bitcoin, dataset that we are used is from 18/5/2020 - 18/5/2021. Below table shows our dataset example.
+
+![Figure 3](https://github.com/azriawi/Artificial-Intelligence-Project/blob/main/Image/BTC%20Example%20Dataset.jpg)
+
+Figure 4 shows the example of BTC dataset.
 
 ## D.   PROJECT STRUCTURE
 
