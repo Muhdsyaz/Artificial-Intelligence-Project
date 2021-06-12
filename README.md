@@ -32,7 +32,7 @@ Figure 1 shows the example of Crypto Coins.
 
 In this project, we’ll discuss about prediction in crptocurrency
 
-For each currency, the data is from the day when it was launched or when it started generating some market value. For example for Bitcoin(BTC) the data is from April 28, 2013 to present day. For Ethereum(ETH), it is from August 07,2015 to present day.
+For each currency, we are used 1 year dataset
 
 The data contains total of 6 main features. The details for them are as follows :
 
@@ -40,11 +40,13 @@ The data contains total of 6 main features. The details for them are as follows 
 - Open Price – It is market open price for currency for that day.
 - High Price – It is highest price of currency for the day.
 - Low Price – It is the lowest price for currency for that day.
+- Ajd Close - Adjusted close is the closing price after adjustments for all applicable splits and dividend distributions. Data is adjusted using appropriate split and dividend multipliers, adhering to Center for Research in Security Prices (CRSP) standards.
 - Volume – The volume of currency that is being in trade for that day.
-- Market Cap – The total market cap value of currency for that day. It can vary a lot on given day depending upon volatility in prices.
+
 
 **Ripple (XRP)**
-Dataset that we are used for XRP is 1 years which is from 15/4/2020 untill 15/4/2021. We have trained same LSTM model on Ripple data. We are predicting prices from 22 March 2021 to 15 April 2021. Below table shows our output.
+
+Dataset that we are used for XRP are from 15/4/2020 until 15/4/2021. We have trained same LSTM model on Ripple data. We are predicting prices from 22 March 2021 to 15 April 2021. Below table shows our dataset example.
 
 
 ![Figure 2](https://i1.wp.com/pirimidtech.com/wp-content/uploads/2018/04/0-4.jpg?w=592&ssl=1)
