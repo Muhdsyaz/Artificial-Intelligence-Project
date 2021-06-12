@@ -44,7 +44,7 @@ The data contains total of 6 main features. The details for them are as follows 
 - Market Cap – The total market cap value of currency for that day. It can vary a lot on given day depending upon volatility in prices.
 
 **Ripple (XRP)**
-We have trained same LSTM model on Ripple data. We are predicting prices from 22 January to 27 January, 2018. Below table shows our output.
+Dataset that we are used for XRP is 1 years which is from 15/4/2020 untill 15/4/2021. We have trained same LSTM model on Ripple data. We are predicting prices from 22 March 2021 to 15 April 2021. Below table shows our output.
 
 
 ![Figure 2](https://i1.wp.com/pirimidtech.com/wp-content/uploads/2018/04/0-4.jpg?w=592&ssl=1)
