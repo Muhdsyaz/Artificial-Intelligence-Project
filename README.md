@@ -49,6 +49,8 @@ The data contains total of 6 main features. The details for them are as follows 
 Dataset that we are used for XRP are from 15/4/2020 until 15/4/2021. We have trained same LSTM model on Ripple data. We are predicting prices from 22 March 2021 to 15 April 2021. Below table shows our dataset example.
 
 
+![GitHub Logo](XRP Example Dataset.jpg)
+
 ![Figure 2](https://i1.wp.com/pirimidtech.com/wp-content/uploads/2018/04/0-4.jpg?w=592&ssl=1)
 
 Again, overall difference between real and predicted prices is from 0 to 5.6%.
