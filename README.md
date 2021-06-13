@@ -79,10 +79,38 @@ Figure 4 shows the example of BTC dataset.
 ## D.   PROJECT STRUCTURE
 
 The following directory is our structure of our project:
+- $ tree --dirsfirst --filelimit 10
+- .
+- ├── image
+- │   ├── BTC Example Dataset.jpg
+- │   ├── ETH Example Dataset.jpg
+- │   └── XRP Example Dataset.jpg
+- ├── Results
+- │   ├── BTC Result Prediction.jpg
+- │   ├── ETH Result Prediction.jpg
+- │   └── XRP Result Prediction.jpg
+- ├── BTC.ipynb
+- ├── BTC.py
+- ├── BTC-USD.csv
+- ├── ETH.ipynb
+- ├── ETH.py
+- ├── ETH-USD.csv
+- ├── XRP.ipynb
+- ├── XRP.py
+- ├── XRP-USD.csv
+- 2 directories, 15 files
 
-- COMING SOON !!!
+The dataset/ directory contains the data described in the “Cryptocurrency Prediction dataset” section.
 
+Three images provided are the examples of dataset from three types of cryptocurrency which BTC, ETH and XRP.
 
+We’ll be reviewing three Python scripts in this tutorial:
+
+- BTC.ipynb: Accepts our input dataset for BTC and performs prediction for its price. A training history BTC Result Prediction.jpg containing origin/valid/prediction curves is also produced.
+- ETH.iypnb: Accepts our input dataset for ETH and performs prediction for its price. A training history ETH Result Prediction.jpg containing origin/valid/prediction curves is also produced.
+- XRP.ipynb: Accepts our input dataset for XRP and performs prediction for its price. A training history XRP Result Prediction.jpg containing origin/valid/prediction curves is also produced.
+
+In the next two sections, we will train our cryptocurrencies price predictor.
 
 ## E   TRAINING THE PREDICTION
 
