@@ -154,7 +154,7 @@ For every crypto currency that we used as dataset to predict (BTC, XRP, ETH), we
 
 ## G.   PROJECT PRESENTATION 
 
-COMING SOON!!! zzzzzzzzzzzzzzz
+COMING SOON!!! 
 
 [![demo](https://img.youtube.com/vi/-p7HGwOWxtg/0.jpg)](https://www.youtube.com/watch?v=-p7HGwOWxtg "demo")
 
