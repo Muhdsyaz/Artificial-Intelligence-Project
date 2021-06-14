@@ -118,7 +118,7 @@ We are now ready to train our face mask detector using Keras, TensorFlow, and De
 
 From there, open up a terminal, and execute the following command:
 
-COMING SOON!!!
+COMING SOON!!! zzzzzzzz
 
 
 ![Figure 4](https://www.pyimagesearch.com/wp-content/uploads/2020/04/face_mask_detector_plot.png)
