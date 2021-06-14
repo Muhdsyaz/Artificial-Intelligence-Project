@@ -149,7 +149,7 @@ Prediction of XRP result for 25 days from 22/3/2021 - 15/4/2021.
 
 **Conclusion**
 
-For every crypto currency that we are use as dataset to predict (BTC, XRP, ETH), we can see that the difference between real and predicted is not to much difference. The predicted result is almost accurate with real data, so we can conclude that this AI prediction system is 80% accurate.
+For every crypto currency that we used as dataset to predict (BTC, XRP, ETH), we can see that the difference between real and predicted is not to much difference. The predicted result is almost accurate with real data, so we can conclude that this AI prediction system is 80% accurate.
 
 ## G.   PROJECT PRESENTATION 
 
