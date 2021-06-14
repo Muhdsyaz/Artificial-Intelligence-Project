@@ -2,7 +2,7 @@
 
 ## A. PROJECT SUMMARY
 
-**Project Title:** Crytocurrency Prediction Using Machine Learning
+**Project Title:** Cryptocurrency Prediction Using Machine Learning
 
 **Team Members:** 
 - Muhammad Azri Bin Abdullah Zawawi
@@ -126,9 +126,30 @@ COMING SOON!!!
 
 ## F.  RESULT AND CONCLUSION
 
-COMING SOON!!
+For every crpyto currency that we are predict, we only predict for 25 days from the dataset that we are used
+
+**BITCOIN (BTC)**
+
+This is the prediction of Bitcoin result for 25 days from 24/4/2021 - 18/5/2021. As we can see, the purple line indicates the prediction and the blue line is the origin data.
+
+![Figure 4](https://github.com/azriawi/Artificial-Intelligence-Project/blob/main/Image/BTC%20Result%20Prediction.jpg)
+
+**Ethereum (ETH)**
+
+Prediction of ETH result for 25 days from 17/4/2021 - 11/5/2021.
+
+![Figure 4](https://github.com/azriawi/Artificial-Intelligence-Project/blob/main/Image/ETH%20Result%20Prediction.jpg)
+
+**Ripple (XRP)**
+
+Prediction of XRP result for 25 days from 22/3/2021 - 15/4/2021.
 
 
+![Figure 4](https://github.com/azriawi/Artificial-Intelligence-Project/blob/main/Image/XRP%20Result%20Prediction.jpg)
+
+**Conclusion**
+
+For every crypto currency that we are use as dataset to predict (BTC, XRP, ETH), we can see that the difference between real and predicted is not to much difference. The predicted result is almost accurate with real data, so we can conclude that this AI prediction system is 80% accurate.
 
 ## G.   PROJECT PRESENTATION 
 
