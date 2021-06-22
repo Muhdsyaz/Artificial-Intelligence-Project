@@ -114,9 +114,9 @@ In the next two sections, we will train our cryptocurrencies price predictor.
 
 ## E   TRAINING THE PREDICTION
 
-We are now ready to train our face mask detector using Keras, TensorFlow, and Deep Learning.
+We are now ready to train our model using Keras, TensorFlow, and Deep Learning.
 
-From there, open up a terminal, and execute the following command:
+
 
 COMING SOON!!! zzzzzzzz
 
