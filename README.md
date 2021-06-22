@@ -79,8 +79,7 @@ Figure 4 shows the example of BTC dataset.
 ## D.   PROJECT STRUCTURE
 
 The following directory is our structure of our project:
-- $ tree --dirsfirst --filelimit 10
-- .
+C:\Users\USER\Desktop\Kerja2 Utem\Sem4\Ai\Ai Project
 - ├── image
 - │   ├── BTC Example Dataset.jpg
 - │   ├── ETH Example Dataset.jpg
