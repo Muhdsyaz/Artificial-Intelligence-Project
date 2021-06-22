@@ -120,9 +120,9 @@ Navigate to the project folder containing the files. Then open up jupyter notebo
 
 $jupyter notebook
 
-Open the notebook named "BTC.ipynb" and run all the source code in the notebook. First, we will load the dataset and preprocess it. Next, we will split the data data into 3:1 ratio for training and test data. 75% of the data will be the training data and the remaining 25% will be the testing data. After that, we will train the model and validate the result using the test data.
+Open the notebook named "BTC.ipynb" and run all the source code in the notebook to predict the price of Bitcoin. First, we will load the dataset and preprocess it. Next, we will split the data data into 3:1 ratio for training and test data. 75% of the data will be the training data and the remaining 25% will be the testing data. After that, we will train the model and validate the result using the test data. Then, we will repeat all the steps with the notebook named "ETH.ipynb" and "XRP.ipynb". The "ETH.ipynb" will be use to predict the price of Ethereum while "XRP.ipynb" will be used to predict the price of Ripple cryptocurrency.
 
-![Figure 4](https://www.pyimagesearch.com/wp-content/uploads/2020/04/face_mask_detector_plot.png)
+##![Figure 4](https://www.pyimagesearch.com/wp-content/uploads/2020/04/face_mask_detector_plot.png)
 
 
 ## F.  RESULT AND CONCLUSION
