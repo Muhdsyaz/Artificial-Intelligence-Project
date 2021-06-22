@@ -79,6 +79,7 @@ Figure 4 shows the example of BTC dataset.
 ## D.   PROJECT STRUCTURE
 
 The following directory is our structure of our project:
+
 C:\Users\USER\Desktop\Kerja2 Utem\Sem4\Ai\Ai Project
 - ├── image
 - │   ├── BTC Example Dataset.jpg
@@ -113,11 +114,7 @@ In the next two sections, we will train our cryptocurrencies price predictor.
 
 ## E   TRAINING THE PREDICTION
 
-We are now ready to train our face mask detector using Keras, TensorFlow, and Deep Learning.
-
-From there, open up a terminal, and execute the following command:
-
-COMING SOON!!! zzzzzzzz
+To run this system, just open the google colaboraty
 
 
 ![Figure 4](https://www.pyimagesearch.com/wp-content/uploads/2020/04/face_mask_detector_plot.png)
