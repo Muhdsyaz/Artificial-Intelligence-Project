@@ -53,11 +53,6 @@ Dataset that we are used for XRP are from 15/4/2020 until 15/4/2021. We have tra
 
 Figure 2 shows the example of XRP dataset.
 
-![Figure 2](https://i1.wp.com/pirimidtech.com/wp-content/uploads/2018/04/0-4.jpg?w=592&ssl=1)
-
-Again, overall difference between real and predicted prices is from 0 to 5.6%.
-
-
 **Ethereum (ETH)**
 
 For Ethereum, dataset that we are used is from 11/5/2020 - 11/5/2021. Below table shows our dataset example.
@@ -65,8 +60,6 @@ For Ethereum, dataset that we are used is from 11/5/2020 - 11/5/2021. Below tabl
 ![Figure 3](https://github.com/azriawi/Artificial-Intelligence-Project/blob/main/Image/ETH%20Example%20Dataset.jpg)
 
 Figure 3 shows the example of ETH dataset.
-
-As shown above, difference between real and predicted close price is 0% to 7.4%. For really simple LSTM model we’ve trained and tested.
 
 **BITCOIN (BTC)**
 
