@@ -4,6 +4,8 @@
 
 **Project Title:** Cryptocurrency Prediction Using Machine Learning
 
+![Coding](https://github.com/azriawi/Artificial-Intelligence-Project/blob/main/Image/AI%20COVER.png)
+
 **Team Members:** 
 - Muhammad Azri Bin Abdullah Zawawi
 - Muhammad Syazani Bin Mohd Shah
