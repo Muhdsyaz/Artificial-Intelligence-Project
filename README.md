@@ -128,20 +128,37 @@ For every crpyto currency that we are predict, we only predict for 25 days from 
 
 This is the prediction of Bitcoin result for 25 days from 24/4/2021 - 18/5/2021. As we can see, the purple line indicates the prediction and the blue line is the origin data.
 
-![Figure 4](https://github.com/azriawi/Artificial-Intelligence-Project/blob/main/Image/BTC%20Result%20Prediction.jpg)
+![Figure 4](https://github.com/azriawi/Artificial-Intelligence-Project/blob/main/Image/BTC%20Tree%20Model%20Result%20Prediction.jpg)
+
+Tree Models
+
+![Figure 5](https://github.com/azriawi/Artificial-Intelligence-Project/blob/main/Image/BTC%20Linear%20Model%20Result%20Prediction.jpg)
+
+Linear Models
 
 **Ethereum (ETH)**
 
 Prediction of ETH result for 25 days from 17/4/2021 - 11/5/2021.
 
-![Figure 4](https://github.com/azriawi/Artificial-Intelligence-Project/blob/main/Image/ETH%20Result%20Prediction.jpg)
+![Figure 6](https://github.com/azriawi/Artificial-Intelligence-Project/blob/main/Image/ETH%20Tree%20Model%20Result%20Prediction.jpg)
+
+Tree Models
+
+![Figure 7](https://github.com/azriawi/Artificial-Intelligence-Project/blob/main/Image/ETH%20Linear%20Model%20Result%20Prediction.jpg)
+
+Linear Models
 
 **Ripple (XRP)**
 
 Prediction of XRP result for 25 days from 22/3/2021 - 15/4/2021.
 
+![Figure 7](https://github.com/azriawi/Artificial-Intelligence-Project/blob/main/Image/XRP%20Tree%20Model%20Result%20Prediction.jpg)
 
-![Figure 4](https://github.com/azriawi/Artificial-Intelligence-Project/blob/main/Image/XRP%20Result%20Prediction.jpg)
+Tree Models
+
+![Figure 7](https://github.com/azriawi/Artificial-Intelligence-Project/blob/main/Image/XRP%20Linear%20Model%20Result%20Prediction.jpg)
+
+Linear Models
 
 **Conclusion**
 
