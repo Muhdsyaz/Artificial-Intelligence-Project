@@ -81,9 +81,12 @@ C:\Users\USER\Desktop\Kerja2 Utem\Sem4\Ai\Ai Project
 - │   ├── ETH Example Dataset.jpg
 - │   └── XRP Example Dataset.jpg
 - ├── Results
-- │   ├── BTC Result Prediction.jpg
-- │   ├── ETH Result Prediction.jpg
-- │   └── XRP Result Prediction.jpg
+- │   ├── BTC Tree Model Result Prediction.jpg
+- │   ├── BTC Linear Model Result Prediction.jpg
+- │   ├── ETH Tree Model Result Prediction.jpg
+- │   ├── ETH Linear Model Result Prediction.jpg
+- │   ├── XRP Tree Model Result Prediction.jpg
+- │   └── XRP Linear Model Result Prediction.jpg
 - ├── BTC.ipynb
 - ├── BTC.py
 - ├── BTC-USD.csv
@@ -93,7 +96,7 @@ C:\Users\USER\Desktop\Kerja2 Utem\Sem4\Ai\Ai Project
 - ├── XRP.ipynb
 - ├── XRP.py
 - ├── XRP-USD.csv
-- 2 directories, 15 files
+- 2 directories, 18 files
 
 The dataset/ directory contains the data described in the “Cryptocurrency Prediction dataset” section.
 
@@ -108,7 +111,6 @@ We’ll be reviewing three Python scripts in this tutorial:
 In the next two sections, we will train our cryptocurrencies price predictor.
 
 ## E   TRAINING THE PREDICTION
-
 
 We are now ready to train our model using Keras, TensorFlow, and Deep Learning.
 
