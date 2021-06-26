@@ -168,7 +168,7 @@ For every crypto currency that we used as dataset to predict (BTC, XRP, ETH), we
 
 ## G.   PROJECT PRESENTATION 
 
-This is our project demonstration
+**This is our project demonstration (click on the image)**
 
 [![demo](https://github.com/azriawi/Artificial-Intelligence-Project/blob/main/Image/AI%20demo.png)](https://youtu.be/sfonjrGYjhw "Test Run")
 
