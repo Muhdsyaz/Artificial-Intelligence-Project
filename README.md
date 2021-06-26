@@ -170,7 +170,7 @@ For every crypto currency that we used as dataset to predict (BTC, XRP, ETH), we
 
 COMING SOON!!! 
 
-[![demo](https://img.youtube.com/vi/-p7HGwOWxtg/0.jpg)](https://www.youtube.com/watch?v=-p7HGwOWxtg "demo")
+[![demo](https://img.youtube.com/vi/-sfonjrGYjhw/0.jpg)](https://youtu.be/sfonjrGYjhw "Test Run")
 
 
 
